@@ -1,6 +1,6 @@
 """
-    wtforms.ext.django.templatetags.wtforms
-    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    wtforms.contrib.django.templatetags.wtforms
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     
     Template Tags for easy wtforms access in Django templates
     
