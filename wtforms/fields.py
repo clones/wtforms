@@ -93,6 +93,10 @@ class Field(object):
         """
         raise NotImplementedError
 
+    def _get_type(self):
+        return type(self).__name__
+    type = property(_get_type)
+        
     def _validate(self, *args):
         pass
 
