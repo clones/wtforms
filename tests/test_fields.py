@@ -1,7 +1,7 @@
 #!/usr/bin/python
 """
-    fields
-    ~~~~~~
+    test_fields
+    ~~~~~~~~~~~
     
     Unittests for bundled fields.
     
